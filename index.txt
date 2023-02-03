@@ -1,7 +1,7 @@
 <html>
 <h1>This is the index page.</h1>
 <body>
-Good afternoon.bye tata
+Good afternoon.
 </body>
 </html>
 
