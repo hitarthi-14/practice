@@ -1,0 +1,7 @@
+<html>
+<h1>This is the payment page.</h1>I want to do payments into the file.
+<body>
+Good afternoon hitarthi.
+</body>
+</html>
+
